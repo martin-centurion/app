@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import { Link } from 'react-router-dom';
 function App() {
   return (
     <div className="App">
@@ -15,7 +14,7 @@ function App() {
            Click para escuchar canción!
          </a>
                         
-        <h1>💔, pensas que soy tarado?</h1>
+        <h1>hacia adelante señorita 🩺</h1>
     </div>
   );
 }
