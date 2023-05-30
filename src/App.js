@@ -15,7 +15,7 @@ function App() {
            Click para escuchar canción!
          </a>
                         
-        <h1>Que Descanses Hermosa ❤️!</h1>
+        <h1>💔, pensas que soy tarado?</h1>
     </div>
   );
 }
