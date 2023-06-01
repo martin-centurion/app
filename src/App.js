@@ -7,7 +7,7 @@ function App() {
         <p>De parte de Martin Centurion</p>
         <a
            className="App-link"
-           href="https://wa.link/ekfkju"
+           href="https://www.youtube.com/watch?v=NQNWQt5VPSM"
            target="_blank"
            rel="noopener noreferrer"
          >
