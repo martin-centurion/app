@@ -3,19 +3,22 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <h3>"Sin palabras de lo que te dije, pero bueno tuve un mal día, estresante, con la situacion que vivi en el trabajo y bueno con lo que te dije por whastapp lo redondee, un día de mierda sin dudas, me vino a la mente que por ahi no te guste en el video y dije mejor dejo de molestarla, espero que no te quede sensacion de que soy un tarado, no tengo perdon, lo se."</h3>
-        <p>De parte de Martin Centurion</p>
+        <h3>App not available</h3>
+        <h2>In case of consultation about the status of the site, contact:</h2>
+        <p>Martin Centurion | Desarrollador de aplicaciones móviles</p>
+        <p>AR +549 11-5635-5415</p>
+        <p>Location: Vicente Lopez, Buenos Aires. Argentina.</p>
         <a
            className="App-link"
-           href="https://www.youtube.com/watch?v=NQNWQt5VPSM"
+           href="https://martin-centurion.github.io/portfolio/"
            target="_blank"
            rel="noopener noreferrer"
          >
-           Escuchar canción!
+           LINK WEBSITE
          </a>
          
                         
-        <h1>Una hermosa canción 🎶</h1>
+        <h1>404</h1>
     </div>
   );
 }
